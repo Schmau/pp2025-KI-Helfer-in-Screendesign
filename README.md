@@ -3,6 +3,8 @@
 Dieses Repository enthält die finalen Screens, die im Rahmen meines Praxisprojekts zur Anwendung von KI-Tools im Double-Diamond-Designprozess entstanden sind. Die Screens wurden in Figma umgesetzt und basieren auf iterativ entwickelten Wireframes, die mithilfe verschiedener KI-gestützter Tools analysiert und optimiert wurden. Ziel war es, den Nutzen von KI entlang der einzelnen Phasen systematisch zu untersuchen. Um die Designprozesse zu vergleichen wurde das Screendesign-Projekt aus dem Wintersemester 22/23 wiederholt.
 Die erstellten Wireframes basieren dabei auf dem Screendesign-Projekt aus dem Wintersemester 2022/23. Da ich das Projekt in dem Jahr abgeschlossen habe, konnte ich den alten Designprozess mit dem neuen KI-gestützten vergleichen und evaluieren. 
 Die Ergebnisse davon zeigten ein phasenabhängiges Bild, wobei der meiste Nutzen der KI-Tools in der Lieferphase gewonnen werden konnte. 
+
+Das alte Projekt ist unter folgendem Link abrufbar: https://th-koeln.github.io/mi-bachelor-screendesign-projekte/sd-2022/koeppen-martinez-kurzdokumentation/
 ### Erweiterungsmöglichkeiten
 -Didaktische Integration von KI-Tools in die Lehre
 
